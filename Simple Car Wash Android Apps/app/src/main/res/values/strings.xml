@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Car Wash</string>
+    <string-array name="jenismobil">
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+    </string-array>
+    <string-array name="basicservices">
+        <item>Standar Wash</item>
+        <item>Bubble Wash</item>
+    </string-array>
+    <string-array name="AdditionalServices">
+        <item>None</item>
+        <item>Salon Mesin</item>
+        <item>Salon Interior Mobil</item>
+        <item>Salon Eskterior Mobil</item>
+        <item>Salon Mesin + Interior Mobil</item>
+        <item>Salon Mesin + Eksterior Mobil</item>
+        <item>Salon Interior + Eksterior Mobil</item>
+        <item>Lengkap</item>
+    </string-array>
+</resources>

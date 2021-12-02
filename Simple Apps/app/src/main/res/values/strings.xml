@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UasMOOP</string>
+    <string-array name="bangsal">>
+        <item>Bangsal Anak</item>
+        <item>Bangsal Dewasa</item>
+    </string-array>
+    <string-array name="penyakit">
+        <item>Demam Berdarah</item>
+        <item>Tipus</item>
+    </string-array>
+</resources>
